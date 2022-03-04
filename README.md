@@ -1,2 +1,7 @@
 # Aprendizado-pessoal
-Espaço destinado à organização dos meus estudos das mais diversas fontes: disciplinas do curso da Fatec, cursos extras e complementares, tópicos especiais ou acompanhamento de livros.
+Espaço destinado à organização dos meus estudos das mais diversas fontes: 
+* Disciplinas do curso de Análise e Desenvolvimento de Sistemas (Fatec);
+* Cursos extras e complementares;
+* Grupos de Estudos; 
+* Tópicos especiais;
+* Acompanhamento de livros.
