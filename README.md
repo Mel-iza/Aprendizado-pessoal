@@ -1,5 +1,7 @@
 # Estudos e aprendizado-pessoal
 
+:red_circle: **EM CONSTRUÇÃO**
+
 Espaço destinado à organização dos meus estudos das mais diversas fontes: 
 * Disciplinas do curso de Análise e Desenvolvimento de Sistemas (Fatec);
 * Cursos extras e complementares;
