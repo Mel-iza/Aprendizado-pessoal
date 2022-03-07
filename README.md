@@ -17,7 +17,7 @@ O objetivo desse repositório é organizar todos os assuntos que estou aprendend
 Listas de exercícios nível básico da disciplina de Pyhton | Fatec
 
 :file_folder: **Linguagem de Programação Java** <br>
-Listas de exercícios nível básico da disciplina de Pyhton | Fatec
+Listas de exercícios nível básico da disciplina de Java | Fatec
 
 :file_folder: **Banco de Dados e SQL - Laboratório de banco de dados** <br>
 Listas de exercícios nível básico sobre banco de dados e SQL | Fatec
