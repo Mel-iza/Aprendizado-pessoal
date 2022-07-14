@@ -22,12 +22,6 @@ Listas de exercícios nível básico da disciplina de Java | Fatec
 :file_folder: **Banco de Dados e SQL - Laboratório de banco de dados** <br>
 Listas de exercícios nível básico sobre banco de dados e SQL | Fatec
 
-:file_folder: **Programação Linear e Aplicações** <br>
-Listas de exercícios de programação linear | Fatec
-
-:file_folder: **Engenharia de Software** <br>
-Exercícios e conceitação sobre engenharia de Software 
-
 :heavy_plus_sign: | **Cursos** |
 
 :file_folder: Estatística Descritiva | Udacity
