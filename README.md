@@ -22,21 +22,9 @@ Listas de exercícios nível básico da disciplina de Java | Fatec
 :file_folder: **Banco de Dados e SQL - Laboratório de banco de dados** <br>
 Listas de exercícios nível básico sobre banco de dados e SQL | Fatec
 
-:heavy_plus_sign: | **Cursos** |
-
-:file_folder: Estatística Descritiva | Udacity
-
-:file_folder: Data Science e Machine Learning | Tera
-
-:file_folder: Processamento de Linguagem Natural | ICMC Usp
-
 :heavy_plus_sign: | **Livros** |
 
 :file_folder: Estatística Básica | Bussab e Morettin
-
-:heavy_plus_sign: | **Workshop** |
-
-:file_folder: Estatística Aplicada | Fernanda Maciel
 
 :heavy_plus_sign: | **Extra** |
 
