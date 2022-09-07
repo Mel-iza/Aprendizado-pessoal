@@ -1,7 +1,5 @@
 # Estudos e aprendizado-pessoal
 
-:red_circle: **EM CONSTRUÇÃO**
-
 Espaço destinado à organização dos meus estudos das mais diversas fontes: 
 * Disciplinas do curso de Análise e Desenvolvimento de Sistemas (Fatec);
 * Cursos extras e complementares;
@@ -25,3 +23,5 @@ Listas de exercícios nível básico sobre banco de dados e SQL | Fatec
 :heavy_plus_sign: | **Extra** |
 
 :file_folder: Oficina de Python Pytec
+
+:red_circle: **EM CONSTRUÇÃO**
