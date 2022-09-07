@@ -22,12 +22,6 @@ Listas de exercícios nível básico da disciplina de Java | Fatec
 :file_folder: **Banco de Dados e SQL - Laboratório de banco de dados** <br>
 Listas de exercícios nível básico sobre banco de dados e SQL | Fatec
 
-:heavy_plus_sign: | **Livros** |
-
-:file_folder: Estatística Básica | Bussab e Morettin
-
 :heavy_plus_sign: | **Extra** |
 
 :file_folder: Oficina de Python Pytec
-
-:file_folder: Lógica
