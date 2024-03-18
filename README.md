@@ -1,27 +1,39 @@
-# Estudos e aprendizado-pessoal
+# Personal studies and learning
 
-Espaço destinado à organização dos meus estudos das mais diversas fontes: 
-* Disciplinas do curso de Análise e Desenvolvimento de Sistemas (Fatec);
-* Cursos extras e complementares;
-* Grupos de Estudos; 
-* Tópicos especiais;
-* Acompanhamento de livros.
+Space dedicated to organizing my studies from various sources:
+- Subjects from the Systems Analysis and Development course (Fatec);
+- Extra and complementary courses;
+- Study groups;
+- Special topics;
+- Book follow-up.
 
-O objetivo desse repositório é organizar todos os assuntos que estou aprendendo e me dedicando no momento ou assuntos que já estudei e estou fazendo revisão.
+The goal of this repository is to organize all the subjects I'm currently learning and dedicating myself to, or subjects I've already studied and am reviewing.
 
-:heavy_plus_sign: | **Disciplinas Fatec** |
 
-:file_folder: **Linguagem de Programação Python** <br>
-Listas de exercícios nível básico da disciplina de Pyhton | Fatec
+### **Subjects** 
 
-:file_folder: **Linguagem de Programação Java** <br>
-Listas de exercícios nível básico da disciplina de Java | Fatec
+:file_folder: **Python Programming Language** <br>
+Lists of basic level exercises from Python course | Fatec
 
-:file_folder: **Banco de Dados e SQL - Laboratório de banco de dados** <br>
-Listas de exercícios nível básico sobre banco de dados e SQL | Fatec
+:file_folder: **Java Programming Language** <br>
+Lists of basic level exercises from Java course | Fatec
 
-:heavy_plus_sign: | **Extra** |
+:file_folder: **Database and SQL - Database Laboratory** <br>
+Lists of basic level exercises on database and SQL | Fatec
 
-:file_folder: Oficina de Python Pytec
+:file_folder: **C# Programming Language** <br>
+Lists of basic level exercises from C# course | Fatec
 
-:red_circle: **EM CONSTRUÇÃO**
+
+
+
+
+
+
+
+
+
+
+
+
+
